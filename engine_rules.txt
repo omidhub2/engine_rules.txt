@@ -1,1 +1,1 @@
-ALLOW_TRADE=true
+ALLOW_TRADE=false
